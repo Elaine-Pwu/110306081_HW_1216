@@ -1,0 +1,41 @@
+#body.main.body h1{
+	text-align: left;
+	color: black;
+}
+#body.main.body h4 p{text-decoration:line-through;
+	color:black;
+	text-size:small;
+}
+#body.main.body h4{font-family:courier,fixedsys,monospace;
+	color: violet;
+	margin-left: 150px;
+}
+#body.main.body h5,em{text-decoration:none;
+      color:violet ;
+      text-size:small;
+}
+#body.main.body h6{font-family: tahoma,sans-serif,arial;}
+#body.main.body h7{font-family: times new roman,arial,critter;
+	text-decoration: overline;}
+#body.main.body h8{font-family: courier,fixedsys,monospace;
+	text-decoration: underline;}
+
+span{
+	color: blue;
+}
+.extra span{
+	color: inherit;
+	}
+article{
+	border-style: solid ;
+	border-color: aliceblue;
+	font-size: 1px;
+	background-color: lavender;
+}
+.right{margin-right:150px;
+	margin-top: 50px;
+float: right}
+.left{margin-left:150px ;
+	margin-top: 50px;
+	margin-bottom: 50px;
+float: left;}
