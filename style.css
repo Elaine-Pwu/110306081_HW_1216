@@ -30,7 +30,7 @@ article{
 	border-style: solid ;
 	border-color:violet ;
 	font-size: 1px;
-	bgcolor: lavender;
+	bg-color: lavender;
 }
 .right{margin-right:150px;
 	margin-top: 50px;
