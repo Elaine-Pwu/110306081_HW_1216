@@ -28,8 +28,9 @@ span{
 	}
 article{
 	border-style: solid ;
-	border-color:aquamarine ;
+	border-color:violet ;
 	font-size: 1px;
+	bgcolor: lavender;
 }
 .right{margin-right:150px;
 	margin-top: 50px;
