@@ -28,9 +28,9 @@ span{
 	}
 article{
 	border-style: solid ;
-	border-color:violet ;
+	border-color:violet;
 	font-size: 1px;
-	bg-color: lavender;
+	background-color: lavender;
 }
 .right{margin-right:150px;
 	margin-top: 50px;
